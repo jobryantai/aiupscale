@@ -1,0 +1,12 @@
+venv/
+BasicSR/
+inputfile/*
+!inputfile/.gitkeep
+workspaces/
+outputfile/*
+!outputfile/.gitkeep
+__pycache__/
+*.pyc
+*.log
+Real-ESRGAN_backup/
+realesrgan-ncnn-vulkan_backup/
